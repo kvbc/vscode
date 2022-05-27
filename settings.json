@@ -17,6 +17,18 @@
             "color": "black",
             "backgroundColor": "lightgreen",
             "isWholeLine": true
+        },
+        {
+            "text": "///",
+            "color": "black",
+            "backgroundColor": "white",
+            "isWholeLine": true
+        },
+        {
+            "text": "//|",
+            "color": "white",
+            "backgroundColor": "black",
+            "isWholeLine": true
         }
     ]
 }
