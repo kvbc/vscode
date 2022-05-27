@@ -1,0 +1,22 @@
+{
+    "todohighlight.keywords": [
+        {
+            "text": "FIX",
+            "color": "black",
+            "backgroundColor": "red",
+            "isWholeLine": true
+        },
+        {
+            "text": "CHECK",
+            "color": "black",
+            "backgroundColor": "gold",
+            "isWholeLine": true
+        },
+        {
+            "text": "DONE",
+            "color": "black",
+            "backgroundColor": "lightgreen",
+            "isWholeLine": true
+        }
+    ]
+}
