@@ -13,6 +13,12 @@
             "isWholeLine": true
         },
         {
+            "text": "DOING",
+            "color": "black",
+            "backgroundColor": "darkorange",
+            "isWholeLine": true
+        },
+        {
             "text": "DONE",
             "color": "black",
             "backgroundColor": "lightgreen",
